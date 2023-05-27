@@ -1,4 +1,4 @@
-[![MasterHead](<a href="https://ibb.co/pKZYMXz"><img src="https://i.ibb.co/1XKFP2q/runzz7-0.png" alt="runzz7-0" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image sharing sites</a><br />)](https://rishavchanda.io)
+[![MasterHead](<a href="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="runzz7-0" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image sharing sites</a><br />)](https://rishavchanda.io)
 <h1 align="center">ABOUT RunZz_THEFRAME</h1>
 <h3 align="center">DEVELOPER AT IT SERVER GROUP</h3>
 <img align="right" alt="Coding" width="400" src="[https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif](https://ibb.co/pKZYMXz)">
