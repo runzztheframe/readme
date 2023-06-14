@@ -5,7 +5,7 @@ username=runzztheframe&label=Profile%20views&color=0e75b6&style=flat" alt="runzz
 <h1 align="center">HELLO I'M RUNZZ_THEFRAME</h1>
 <h3 align="center">I'm Web Developer From IT SERVER GROUP</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=runzztheframe" alt="runzztheframe" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/runzz_iz3" target="blank"><img src="https://img.shields.io/twitter/follow/runzz_iz3?logo=twitter&style=for-the-badge" alt="runzz_iz3" /></a> </p>
 
