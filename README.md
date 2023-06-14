@@ -1,5 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/
-username=runzztheframe&label=Profile%20views&color=0e75b6&style=flat" alt="runzztheframe" /> 
+
 <img align="center" alt="Coding" width= "400" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif">
 </p>
 <h1 align="center">HELLO I'M RUNZZ_THEFRAME</h1>
